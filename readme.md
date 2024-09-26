@@ -33,19 +33,19 @@ You can use any one of the following options:
 1. **Convert from a URL**:
    
     ```bash
-    python -m Cli.Ray2Box --url <URL> --output <output_file>
+    Ray2Box.exe --url <URL> --output <output_file>
     ```
 
 2. **Convert from a file (.txt format only)**:
 
     ```bash
-    python -m Cli.Ray2Box --file <file_path> --output <output_file>
+    Ray2Box.exe --file <file_path> --output <output_file>
     ```
 
 3. **Convert from a single link**:
 
     ```bash
-    python -m Cli.Ray2Box --link <V2ray_link> --output <output_file>
+    Ray2Box.exe --link <V2ray_link> --output <output_file>
     ```
 
 ### Options
