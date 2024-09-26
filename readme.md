@@ -60,7 +60,7 @@ You can use any one of the following options:
 ### Example
 
 ```bash
-python -m Cli.Ray2Box --file configs.txt --output singbox_config
+Ray2Box.exe --file configs.txt --output singbox_config
 ```
 
 ## Installation
